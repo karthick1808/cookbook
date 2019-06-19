@@ -1,3 +1,4 @@
+package 'emacs'
 package 'vim-enhanced'
 package 'nano'
 
